@@ -1,0 +1,25 @@
+# A catppuccin RC for Microsoft PowerPoint Slides. In beta, specs may change. 
+app_name: "Microsoft PowerPoint Slides"
+# binary_name: powerpoint
+installation:
+  location:
+    macos: "~/Library/Group Containers/UBF8T346G9.Office/User Content/Templates"
+    # linux: ""
+    windows: "~/Documents/Custom Office Templates"
+  flavours:
+    all:
+      default:
+        - Catppuccin/
+    latte:
+      default:
+        - Catppuccin/Catppuccin-Latte.potx
+    frappe:
+      default:
+        - Catppuccin/Catppuccin-Frappe.potx
+    macchiato:
+      default:
+        - Catppuccin/Catppuccin-Macchiato.potx
+    mocha:
+      default:
+        - Catppuccin/Catppuccin-Mocha.potx
+  to: Catppuccin/

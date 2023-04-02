@@ -39,8 +39,8 @@
 1. Download and install the [Jellee font](https://www.fontsquirrel.com/fonts/jellee)
 2. Clone this repository locally
 3. Go to the folder where PowerPoint themes are located
-	- macOS: `/Users/<Username>/Library/Group Containers/UBF8T346G9.Office/User Content/Templates`
-	- Windows: `C:\Users\<Username>\Documents\Custom Office Templates`
+	- macOS: `~/Library/Group Containers/UBF8T346G9.Office/User Content/Templates`
+	- Windows: `~/Documents/Custom Office Templates`
 4. Copy the entire `Catppuccin` folder there
 
 ## 💝 Thanks to
