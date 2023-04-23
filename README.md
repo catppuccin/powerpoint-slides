@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-	<a href="https://github.com/catppuccin/powerpoint-slides/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/powepowerpoint-slidesrpoint?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/catppuccin/powerpoint-slides/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/powerpoint-slides?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
 	<a href="https://github.com/catppuccin/powerpoint-slides/issues"><img src="https://img.shields.io/github/issues/catppuccin/powerpoint-slides?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
 	<a href="https://github.com/catppuccin/powerpoint-slides/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/powerpoint-slides?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
 </p>
