@@ -36,12 +36,22 @@
 
 ## Usage
 
+This package provides both Themes (.thmx) and PowerPoint Templates (.potx). For each color scheme,
+there is a standard version that uses similar colors to the default PowerPoint theme colors, and a 
+Rainbow variant which uses Red, Peach, Yellow, Green, Sky and Mauve.
+
 1. Download and install the [Jellee font](https://www.fontsquirrel.com/fonts/jellee)
-2. Clone this repository locally
-3. Go to the folder where PowerPoint themes are located
-	- macOS: `~/Library/Group Containers/UBF8T346G9.Office/User Content/Templates`
-	- Windows: `~/Documents/Custom Office Templates`
-4. Copy the entire `Catppuccin` folder there
+1. Clone this repository locally
+1. To install Templates (.potx):
+	1. Go to the folder where custom PowerPoint templates are located
+		- macOS: `~/Library/Group Containers/UBF8T346G9.Office/User Content/Templates`
+		- Windows: `~/Documents/Custom Office Templates`
+	1. Copy the entire `Catppuccin` folder there
+1. To install Themes (.thmx):
+	1. Go to the folder where custom Office Themes are located
+		- Windows: `%APPDATA%/Microsoft/Templates/Document Themes`
+		- Mac: you can find it by trying to save a new Theme and seeing which folder opens in Finder
+	1. Copy the contents of the `Themes` folder there
 
 ## 💝 Thanks to
 
